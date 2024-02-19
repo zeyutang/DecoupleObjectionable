@@ -1,6 +1,6 @@
-# Procedural Fairness Through Decoupling Objectionable Data Generating Components (NeurIPS AFT 2023)
+# Procedural Fairness Through Decoupling Objectionable Data Generating Components (ICLR 2024 Spotlight)
 
-> This repository contains the implementation of the framework proposed in our paper "[Procedural Fairness Through Decoupling Objectionable Data Generating Components](https://zeyu.one/assets/pdf/manuscript/tang23c.pdf)".
+> This repository contains the implementation of the framework proposed in our paper "[Procedural Fairness Through Decoupling Objectionable Data Generating Components](https://arxiv.org/abs/2311.14688)".
 
 ### Abstract
 
